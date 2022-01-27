@@ -1,3 +1,5 @@
+export * from './common/constants';
+
 export { default as BibliographicInfo } from './lib/BibliographicInfo';
 export { default as PublicationInfo } from './lib/PublicationInfo';
 

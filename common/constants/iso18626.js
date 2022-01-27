@@ -1,0 +1,22 @@
+export const PUBLICATION_TYPE = [
+    'ArchiveMaterial',
+    'Article',
+    'AudioBook',
+    'Book',
+    'Chapter',
+    'ConferenceProc',
+    'Game',
+    'GovernmentPubl',
+    'Image',
+    'Journal',
+    'Manuscript',
+    'Map',
+    'Movie',
+    'MusicRecording',
+    'MusicScore',
+    'Newspaper',
+    'Patent',
+    'Report',
+    'SoundRecording',
+    'Thesis'
+];
