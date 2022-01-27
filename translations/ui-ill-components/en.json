@@ -1,4 +1,6 @@
 {
+  "abstractSection": "Abstract",
+
   "iso18626.bibInfo.heading": "Bibliographic information",
   "iso18626.bibInfo.SupplierUniqueRecordId": "Supplier ID",
   "iso18626.bibInfo.Title": "Title",
