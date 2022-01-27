@@ -1,0 +1,64 @@
+{
+  "name": "@ptfs-europe/ill-components",
+  "version": "1.0.0",
+  "description": "A component library for Stripes ILL applications",
+  "main": "index.js",
+  "repository": "",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=12.20.1"
+  },
+  "scripts": {
+    "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/ui-ill-components ./translations/ui-ill-components/compiled",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/eslint-parser": "^7.15.0",
+    "@babel/plugin-proposal-class-properties": "^7.0.0",
+    "@babel/plugin-proposal-decorators": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.9.0",
+    "@folio/eslint-config-stripes": "^6.0.0",
+    "@folio/stripes-cli": "^2.4.0 || ^2.4.0",
+    "@folio/stripes-core": "^8.0.0",
+    "@formatjs/cli": "^4.2.29",
+    "@jest/globals": "^26.6.2",
+    "@testing-library/dom": "^7.26.3",
+    "@testing-library/jest-dom": "^5.11.9",
+    "@testing-library/react": "^11.2.5",
+    "@testing-library/user-event": "^12.1.10",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.6.3",
+    "chai": "^4.2.0",
+    "core-js": "^3.6.4",
+    "eslint": "^7.32.0",
+    "inflected": "^2.0.4",
+    "jest": "^26.6.3",
+    "jest-canvas-mock": "^2.3.0",
+    "jest-junit": "^12.0.0",
+    "mocha": "^5.2.0",
+    "react-dom": "^17.0.2",
+    "react-hot-loader": "^4.3.12",
+    "react-redux": "^7.2.2",
+    "react-router-prop-types": "^1.0.4",
+    "redux": "^4.0.5",
+    "regenerator-runtime": "^0.13.3"
+  },
+  "dependencies": {
+    "@folio/stripes-acq-components": "~3.0.0",
+    "prop-types": "^15.6.0"
+  },
+  "peerDependencies": {
+    "@folio/stripes": "^7.0.0",
+    "react": "*",
+    "react-intl": "^5.8.0",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "stripes": {
+    "actsAs": [ "" ]
+  }
+}
