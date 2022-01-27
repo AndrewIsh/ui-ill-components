@@ -42,5 +42,10 @@
   "iso18626.pubInfo.PublicationType.Patent": "Patent",
   "iso18626.pubInfo.PublicationType.Report": "Report",
   "iso18626.pubInfo.PublicationType.SoundRecording": "Sound recording",
-  "iso18626.pubInfo.PublicationType.Thesis": "Thesis"
+  "iso18626.pubInfo.PublicationType.Thesis": "Thesis",
+
+  "connector.result.identifier": "Identifier",
+
+  "button.placeRequest": "Place request",
+  "button.cancel": "Cancel"
 }
