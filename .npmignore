@@ -2,9 +2,6 @@
 *.swp
 *.swo
 node_modules
-artifacts
 npm-debug.log
 yarn.lock
 package-lock.json
-junit.xml
-.vscode
