@@ -10,3 +10,4 @@ export { default as NoResultsMessage } from './lib/NoResultsMessage';
 
 export { default as useConnectorSearch } from './lib/hooks/useConnectorSearch';
 export { default as useIsoToCql } from './lib/hooks/useIsoToCql';
+export { default as useConnector } from './lib/hooks/useConnector';
