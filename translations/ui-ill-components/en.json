@@ -15,9 +15,13 @@
   "iso18626.bibInfo.PagesRequested": "Page from and page to",
   "iso18626.bibInfo.EstimatedNoPages": "Expected number of pages",
   "iso18626.bibInfo.BibliographicItemId": "Bibliographic item ID",
+  "iso18626.bibInfo.BibliographicItemIdentifierCode": "Bibliographic item identifier type",
+  "iso18626.bibInfo.BibliographicItemIdentifier": "Bibliographic item identifier",
   "iso18626.bibInfo.Sponsor": "Publication sponsor",
   "iso18626.bibInfo.InformationSource": "Bibliographic information source",
   "iso18626.bibInfo.BibliographicRecordId": "Bibliographic record ID",
+  "iso18626.bibInfo.BibliographicRecordIdentifierCode": "Bibliographic record identifier type",
+  "iso18626.bibInfo.BibliographicRecordIdentifier": "Bibliographic record identifier",
 
   "iso18626.pubInfo.heading": "Publication information",
   "iso18626.pubInfo.Publisher": "Publisher",
